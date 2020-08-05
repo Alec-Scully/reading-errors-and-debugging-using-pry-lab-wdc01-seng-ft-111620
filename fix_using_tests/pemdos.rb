@@ -6,7 +6,7 @@ def snake_it_up(string)
     while x <=10 
     "s" + string
     end
-    string
+    #string
   else
     string
   end
